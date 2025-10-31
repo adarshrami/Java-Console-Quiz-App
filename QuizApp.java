@@ -1,5 +1,3 @@
-package com.task8;
-
 import java.util.*;
 
 class Question {
@@ -85,4 +83,5 @@ public class QuizApp {
 
         sc.close();
     }
+
 }
